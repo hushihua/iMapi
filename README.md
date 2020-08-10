@@ -1,9 +1,9 @@
-![iPush](https://github.com/hushihua/iMApi/blob/master/iMApi.png)
+![iPush](https://github.com/hushihua/iMapi/blob/master/iMApi.png)
 
-[![CI Status](https://img.shields.io/travis/adam/iMApi.svg?style=flat)](https://travis-ci.org/adam/iMApi)
-[![Version](https://img.shields.io/cocoapods/v/iMApi.svg?style=flat)](https://cocoapods.org/pods/iMApi)
-[![License](https://img.shields.io/cocoapods/l/iMApi.svg?style=flat)](https://cocoapods.org/pods/iMApi)
-[![Platform](https://img.shields.io/cocoapods/p/iMApi.svg?style=flat)](https://cocoapods.org/pods/iMApi)
+[![CI Status](https://img.shields.io/travis/adam/iMapi.svg?style=flat)](https://travis-ci.org/adam/iMapi)
+[![Version](https://img.shields.io/cocoapods/v/iMapi.svg?style=flat)](https://cocoapods.org/pods/iMapi)
+[![License](https://img.shields.io/cocoapods/l/iMapi.svg?style=flat)](https://cocoapods.org/pods/iMapi)
+[![Platform](https://img.shields.io/cocoapods/p/iMapi.svg?style=flat)](https://cocoapods.org/pods/iMapi)
 
 
 ## 一：开设帐号，生成appkey
