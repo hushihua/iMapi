@@ -1,0 +1,11 @@
+framework module iMApi {
+  umbrella header "iMApi.h"
+
+  export *
+  module * { export * }
+}
+
+module iMApi.Swift {
+    header "iMApi-Swift.h"
+    requires objc
+}
