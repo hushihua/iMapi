@@ -1,4 +1,4 @@
-![iPush](https://github.com/hushihua/iMapi/blob/master/iMApi.png)
+![iPush](https://github.com/hushihua/iMapi/blob/master/iMapi.png)
 
 [![CI Status](https://img.shields.io/travis/adam/iMapi.svg?style=flat)](https://travis-ci.org/adam/iMapi)
 [![Version](https://img.shields.io/cocoapods/v/iMapi.svg?style=flat)](https://cocoapods.org/pods/iMapi)
