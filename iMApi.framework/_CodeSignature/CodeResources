@@ -6,11 +6,11 @@
 	<dict>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/objects-11.0+.nib</key>
 		<data>
-		tgYfgZLvKQGtHXNLpGhtAX1RfVw=
+		AdlHVdV8u2lSBIcSLD9BpbZtyyM=
 		</data>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/runtime.nib</key>
 		<data>
-		X1WVPSOzC1COh/YQOdne7Jiwhh8=
+		o1xW+R4/uKphG7ckUGgtk6kb1Yc=
 		</data>
 		<key>Frameworks/iPush.framework/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Frameworks/iPush.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Nse2+z5PowA0+pXGkFISJ2hZanI=
+		eI6B/AHurTU9uJX+WpkSEYIk/RM=
 		</data>
 		<key>Frameworks/iPush.framework/iPush</key>
 		<data>
-		WDcepGGu1ho1sktLwjdtMlfTCFk=
+		yjoxwpYonVww76UaK8sC7m3jG3g=
 		</data>
 		<key>Headers/iMApi-Swift.h</key>
 		<data>
@@ -38,27 +38,27 @@
 		</data>
 		<key>Modules/iMApi.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		8IxXx640xSHZB8pl+Qn973Y4xhM=
+		acfdVvaaayXhnqo9otzErbN8/3w=
 		</data>
 		<key>Modules/iMApi.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		1S/0rh5tZmi6vQD/BHo8CYzAVc4=
+		Z3z00qPlKYSuNtEr/6cgGOt2ji4=
 		</data>
 		<key>Modules/iMApi.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		1S/0rh5tZmi6vQD/BHo8CYzAVc4=
+		Z3z00qPlKYSuNtEr/6cgGOt2ji4=
 		</data>
 		<key>Modules/iMApi.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		8IxXx640xSHZB8pl+Qn973Y4xhM=
+		acfdVvaaayXhnqo9otzErbN8/3w=
 		</data>
 		<key>Modules/iMApi.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		8IxXx640xSHZB8pl+Qn973Y4xhM=
+		acfdVvaaayXhnqo9otzErbN8/3w=
 		</data>
 		<key>Modules/iMApi.swiftmodule/arm.swiftdoc</key>
 		<data>
-		4f/5e3iFcCYSW3lcpfopZWgqKAE=
+		lXulap9ndCbeFuMU0nuMlso1Bg4=
 		</data>
 		<key>Modules/iMApi.swiftmodule/arm.swiftmodule</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/iMApi.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		CMKA5xIoWPsKfmvx9geg/awpWNs=
+		nDE94miidMrYGT76Z/2XX1Ci28o=
 		</data>
 		<key>Modules/iMApi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/iMApi.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		CMKA5xIoWPsKfmvx9geg/awpWNs=
+		nDE94miidMrYGT76Z/2XX1Ci28o=
 		</data>
 		<key>Modules/iMApi.swiftmodule/arm64.swiftmodule</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/iMApi.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		4f/5e3iFcCYSW3lcpfopZWgqKAE=
+		lXulap9ndCbeFuMU0nuMlso1Bg4=
 		</data>
 		<key>Modules/iMApi.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/iMApi.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		4f/5e3iFcCYSW3lcpfopZWgqKAE=
+		lXulap9ndCbeFuMU0nuMlso1Bg4=
 		</data>
 		<key>Modules/iMApi.swiftmodule/armv7.swiftmodule</key>
 		<data>
@@ -107,22 +107,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tgYfgZLvKQGtHXNLpGhtAX1RfVw=
+			AdlHVdV8u2lSBIcSLD9BpbZtyyM=
 			</data>
 			<key>hash2</key>
 			<data>
-			U3BNjWnZ/0/z+fXqpLZek1CaUGC9bVbmkW8pXV0nig4=
+			/egMghtUn1+GTG+wtKMSrl/PekO/2s7WBXt1uVqSi+8=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X1WVPSOzC1COh/YQOdne7Jiwhh8=
+			o1xW+R4/uKphG7ckUGgtk6kb1Yc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3JTT3cB5dk8cH4pc8tuUhK2h3fP+a9NwRfpWOSwMGtw=
+			fsTkrbWcd4rOr7vqPw73x7t9wpXTyvFpWXWe7z1Xzl4=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/Info.plist</key>
@@ -140,22 +140,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nse2+z5PowA0+pXGkFISJ2hZanI=
+			eI6B/AHurTU9uJX+WpkSEYIk/RM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hWDi8s3VErjC3wJYHJaOMGX2ieAkknZvfIpL5T7OlLM=
+			XUQ916kgEN3ouaq1kaFpyDtAPW83gUhYRud55iC/wic=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/iPush</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WDcepGGu1ho1sktLwjdtMlfTCFk=
+			yjoxwpYonVww76UaK8sC7m3jG3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			0y77F1TyWArCzQMzVrBQWtQQ7FQLHIKqTbhlVLHY7xc=
+			VQIG9zUOnKziTa3KrGGgOWx5Le7JrUWaW/vCP7sECNI=
 			</data>
 		</dict>
 		<key>Headers/iMApi-Swift.h</key>
@@ -184,66 +184,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8IxXx640xSHZB8pl+Qn973Y4xhM=
+			acfdVvaaayXhnqo9otzErbN8/3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			lx5T+AGxVm3iudxJu/hFwGnVCP6Tm8tABuRgLt/EhAE=
+			L9ojYK0KPlhMsutmP+r4DhHT5dFWBCflWgx5mzpZYog=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1S/0rh5tZmi6vQD/BHo8CYzAVc4=
+			Z3z00qPlKYSuNtEr/6cgGOt2ji4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hTm86aELuswca5oQSOhqk3RsQ/S5LxQmVgunNOipG9o=
+			61btGn+Qg0LqJy5p2ypDCN48fUsw4351CDf6Yg1aPHc=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1S/0rh5tZmi6vQD/BHo8CYzAVc4=
+			Z3z00qPlKYSuNtEr/6cgGOt2ji4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hTm86aELuswca5oQSOhqk3RsQ/S5LxQmVgunNOipG9o=
+			61btGn+Qg0LqJy5p2ypDCN48fUsw4351CDf6Yg1aPHc=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8IxXx640xSHZB8pl+Qn973Y4xhM=
+			acfdVvaaayXhnqo9otzErbN8/3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			lx5T+AGxVm3iudxJu/hFwGnVCP6Tm8tABuRgLt/EhAE=
+			L9ojYK0KPlhMsutmP+r4DhHT5dFWBCflWgx5mzpZYog=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8IxXx640xSHZB8pl+Qn973Y4xhM=
+			acfdVvaaayXhnqo9otzErbN8/3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			lx5T+AGxVm3iudxJu/hFwGnVCP6Tm8tABuRgLt/EhAE=
+			L9ojYK0KPlhMsutmP+r4DhHT5dFWBCflWgx5mzpZYog=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4f/5e3iFcCYSW3lcpfopZWgqKAE=
+			lXulap9ndCbeFuMU0nuMlso1Bg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mvugUTMoFvg8qdpdepOU0eMnBeArGPtHcxUmjhlXBuw=
+			z3k3jPWiLIWVPQhEWRVrEK82A6qgaCfQ0sDDC80k51Y=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/arm.swiftmodule</key>
@@ -261,11 +261,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CMKA5xIoWPsKfmvx9geg/awpWNs=
+			nDE94miidMrYGT76Z/2XX1Ci28o=
 			</data>
 			<key>hash2</key>
 			<data>
-			iuTzA1gfj10C0FPWlOo2lkEEXJoEKrJH3lze30Mo0vg=
+			JLQ4pn8m5zFFkaLLzJlsNJHayGRhAu+sSmxq6fvTCZQ=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -283,11 +283,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CMKA5xIoWPsKfmvx9geg/awpWNs=
+			nDE94miidMrYGT76Z/2XX1Ci28o=
 			</data>
 			<key>hash2</key>
 			<data>
-			iuTzA1gfj10C0FPWlOo2lkEEXJoEKrJH3lze30Mo0vg=
+			JLQ4pn8m5zFFkaLLzJlsNJHayGRhAu+sSmxq6fvTCZQ=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/arm64.swiftmodule</key>
@@ -305,11 +305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4f/5e3iFcCYSW3lcpfopZWgqKAE=
+			lXulap9ndCbeFuMU0nuMlso1Bg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mvugUTMoFvg8qdpdepOU0eMnBeArGPtHcxUmjhlXBuw=
+			z3k3jPWiLIWVPQhEWRVrEK82A6qgaCfQ0sDDC80k51Y=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/armv7-apple-ios.swiftmodule</key>
@@ -327,11 +327,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4f/5e3iFcCYSW3lcpfopZWgqKAE=
+			lXulap9ndCbeFuMU0nuMlso1Bg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mvugUTMoFvg8qdpdepOU0eMnBeArGPtHcxUmjhlXBuw=
+			z3k3jPWiLIWVPQhEWRVrEK82A6qgaCfQ0sDDC80k51Y=
 			</data>
 		</dict>
 		<key>Modules/iMApi.swiftmodule/armv7.swiftmodule</key>
