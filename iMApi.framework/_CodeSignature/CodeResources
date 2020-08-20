@@ -6,11 +6,11 @@
 	<dict>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/objects-11.0+.nib</key>
 		<data>
-		earqUwH2//i9HMX7SEmcES6cj2A=
+		us3+ZwPzbp29YkrT0ZnrmJoJXO4=
 		</data>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/runtime.nib</key>
 		<data>
-		FAckBnJ+BZKLfAsH6w6bxIZjxpA=
+		N/mqe5nLEQFfjNjEKrKedqanl+8=
 		</data>
 		<key>Frameworks/iPush.framework/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Frameworks/iPush.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ktjUahLtm/FaqrOOaDp+mkcp8I4=
+		7KYCyt576DxTAkEw4S0QWvFrMZg=
 		</data>
 		<key>Frameworks/iPush.framework/iPush</key>
 		<data>
-		2NGm6xFrwTSE/LOkyddczFTDVog=
+		195KwcbC7Y3H6YsqxDOU+PsCxhc=
 		</data>
 		<key>Headers/iMApi-Swift.h</key>
 		<data>
@@ -107,22 +107,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			earqUwH2//i9HMX7SEmcES6cj2A=
+			us3+ZwPzbp29YkrT0ZnrmJoJXO4=
 			</data>
 			<key>hash2</key>
 			<data>
-			oOhKfwgCFSZ/aahB+/0m8ZxkX4jXpTYUQeq8Llk4vZ0=
+			y+u38ScDahANInBZqeVRydlGt8i6a3CFnn6l5SxRF5A=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FAckBnJ+BZKLfAsH6w6bxIZjxpA=
+			N/mqe5nLEQFfjNjEKrKedqanl+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QmwkuYg4I9QfnAbmRruaOaCODuhv9rxdatcsxDclcdU=
+			KTTtRze1DjBOpdKF5Tjbyhpwg3h/UgxbqvYv1ner9OY=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/Info.plist</key>
@@ -140,22 +140,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ktjUahLtm/FaqrOOaDp+mkcp8I4=
+			7KYCyt576DxTAkEw4S0QWvFrMZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			5Tax/gk4l8IPAQrDmKCiseWt2Y3T1z3yk05i5opcVx8=
+			o3tcKv8Rne3J+2qDzN97k93A3308QgOWGgsFjafJuKM=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/iPush</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2NGm6xFrwTSE/LOkyddczFTDVog=
+			195KwcbC7Y3H6YsqxDOU+PsCxhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			5DlGD3QaqxcSsO2E4joV4lPPj0yek9pbNiMJTdta5hk=
+			7I8AqTlgxzDQDyfJ/nb3sftfEQhxI9JCx+lrmwuZ6AQ=
 			</data>
 		</dict>
 		<key>Headers/iMApi-Swift.h</key>
