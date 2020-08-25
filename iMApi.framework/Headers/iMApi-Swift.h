@@ -438,6 +438,12 @@ SWIFT_CLASS("_TtC5iMApi16RoomCallingState")
 @end
 
 
+SWIFT_CLASS("_TtC5iMApi15SessionPinModel")
+@interface SessionPinModel : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC5iMApi13VideoPlayInfo")
 @interface VideoPlayInfo : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -889,6 +895,12 @@ SWIFT_CLASS("_TtC5iMApi12LLastMsgInfo")
 
 SWIFT_CLASS("_TtC5iMApi16RoomCallingState")
 @interface RoomCallingState : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC5iMApi15SessionPinModel")
+@interface SessionPinModel : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
