@@ -269,6 +269,8 @@ SWIFT_CLASS("_TtC5iMApi19CUFriendshipManager")
 @end
 
 
+
+
 SWIFT_CLASS("_TtC5iMApi16CUGifStickerItem")
 @interface CUGifStickerItem : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -728,6 +730,8 @@ SWIFT_CLASS("_TtC5iMApi19CUFriendshipManager")
 @interface CUFriendshipManager : CUHttpClient
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
+
 
 
 SWIFT_CLASS("_TtC5iMApi16CUGifStickerItem")
