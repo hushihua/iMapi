@@ -387,6 +387,12 @@ SWIFT_CLASS("_TtC5iMApi16CUStickerManager")
 
 
 
+SWIFT_CLASS("_TtC5iMApi10CUStranger")
+@interface CUStranger : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC5iMApi10CUTextItem")
 @interface CUTextItem : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -848,6 +854,12 @@ SWIFT_CLASS("_TtC5iMApi16CUStickerManager")
 @end
 
 
+
+
+SWIFT_CLASS("_TtC5iMApi10CUStranger")
+@interface CUStranger : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 
 SWIFT_CLASS("_TtC5iMApi10CUTextItem")
