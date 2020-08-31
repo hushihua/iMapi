@@ -6,11 +6,11 @@
 	<dict>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/objects-11.0+.nib</key>
 		<data>
-		t7IwrWYOywZi85xQPkI/M2zQ0LY=
+		WiuF9tnrsnGyervsv0fqC8bZ5N0=
 		</data>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/runtime.nib</key>
 		<data>
-		V4Dy6r0627v7uwoZandGpXr+zgQ=
+		byGR+iO2ywCdVTTBUmc2iVPNiIk=
 		</data>
 		<key>Frameworks/iPush.framework/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Frameworks/iPush.framework/_CodeSignature/CodeResources</key>
 		<data>
-		YK6Ya+1a/Dsqj9u5ySyH82RfoXE=
+		DHzsIbuD4tT+8zyzbFrGEBAGB8E=
 		</data>
 		<key>Frameworks/iPush.framework/iPush</key>
 		<data>
-		LjGMaojHh7y1QlYGc8X8tVCEueQ=
+		kl/totF3CCUW2mXzFxeX2OYYsNI=
 		</data>
 		<key>Headers/iMApi-Swift.h</key>
 		<data>
@@ -107,22 +107,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t7IwrWYOywZi85xQPkI/M2zQ0LY=
+			WiuF9tnrsnGyervsv0fqC8bZ5N0=
 			</data>
 			<key>hash2</key>
 			<data>
-			wgVt1W2hZErLTNXEPt0r21xgVwr+oXXPpL6dpWCPMzI=
+			FVe1Ini41nn84KSW8nTGaeWTXzwrBG9oZUhLEaqfQG8=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/GlobalErrorWindow.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V4Dy6r0627v7uwoZandGpXr+zgQ=
+			byGR+iO2ywCdVTTBUmc2iVPNiIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			yOShYlh56gr8kZxFhifoOzxQj4t4nv5NGmZajSd+Vfs=
+			jin+7ADKoa7JT5jJArEh6DEnUdPw6DBVp2ZlU/EKXKU=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/Info.plist</key>
@@ -140,22 +140,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YK6Ya+1a/Dsqj9u5ySyH82RfoXE=
+			DHzsIbuD4tT+8zyzbFrGEBAGB8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			1TdpXc1ZO0dOQn0vC06gN7ip/QecknjM9D37d18Ocao=
+			UGtJuSyOXvMfesy9UCOu8YDJrQt+HVVJc+x6mvyQ3WE=
 			</data>
 		</dict>
 		<key>Frameworks/iPush.framework/iPush</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LjGMaojHh7y1QlYGc8X8tVCEueQ=
+			kl/totF3CCUW2mXzFxeX2OYYsNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			j5is3IUrKNnXwrIcbdTh0JHOMvDK8FOCMxCbeCQmOuw=
+			BSWfdaa34++3Qb9tfRzX+GRkM8D/4dfYw+QpmV0LOKQ=
 			</data>
 		</dict>
 		<key>Headers/iMApi-Swift.h</key>

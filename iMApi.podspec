@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.author       = "胡式华"
   spec.name         = "iMApi"
-  spec.version      = "1.0.6"
+  spec.version      = "1.0.7"
   spec.summary      = "iMApi SDK for iOS"
   spec.description  = "im api SDK for iOS"
   spec.homepage     = "https://github.com/hushihua/iMapi.git"
