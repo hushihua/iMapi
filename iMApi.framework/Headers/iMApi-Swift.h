@@ -399,6 +399,12 @@ SWIFT_CLASS("_TtC5iMApi10CUTextItem")
 @end
 
 
+SWIFT_CLASS("_TtC5iMApi8CUUnread")
+@interface CUUnread : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC5iMApi15CUUploadRequest")
 @interface CUUploadRequest : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -864,6 +870,12 @@ SWIFT_CLASS("_TtC5iMApi10CUStranger")
 
 SWIFT_CLASS("_TtC5iMApi10CUTextItem")
 @interface CUTextItem : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC5iMApi8CUUnread")
+@interface CUUnread : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
