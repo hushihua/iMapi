@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.author       = "胡式华"
   spec.name         = "iMApi"
-  spec.version      = "1.1.1"
+  spec.version      = "1.1.2"
   spec.summary      = "iMApi SDK for iOS"
   spec.description  = "im api SDK for iOS"
   spec.homepage     = "https://github.com/hushihua/iMapi.git"
@@ -19,5 +19,8 @@ Pod::Spec.new do |spec|
   
   spec.dependency 'iPush'
   spec.dependency 'AWSS3'
+  
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
 end
